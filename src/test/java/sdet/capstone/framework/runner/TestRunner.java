@@ -7,7 +7,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        tags = "@placeOrderWithoutAddress",
+        tags = "",
         features = ("classpath:features"),
         glue="sdet.capstone.framework",
         dryRun = false,
