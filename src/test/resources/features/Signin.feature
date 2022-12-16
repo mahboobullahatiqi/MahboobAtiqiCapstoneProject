@@ -18,6 +18,6 @@ Feature: Sign in Feature
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name     | email                   | password  | confirmPassword |
-      | MahboobAtiqiAtiq | atiqi865@gmail.com | Atiqi!@12 | Atiqi!@12       |
+      | MahboobAtiqiPjr | atiqi098@gmail.com | Atiqi!@12 | Atiqi!@12       |
     And User click on SignUp button
     Then User should be logged into account page

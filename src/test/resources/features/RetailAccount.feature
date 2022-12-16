@@ -29,7 +29,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 1134830602314399 | Atiqi      |              12 |           2024 |          456 |
+      | 1134530602384399 | Atiqi      |              12 |           2024 |          456 |
     And User click on Add your card button
     Then a message should be displayed 'Payment Method added sucessfully'
 
@@ -40,7 +40,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard    | expirationMonth | expirationYear | securityCode |
-      | 2234567890345675 | Benjamin Bray |              12 |           2026 |          786 |
+      | 2634567890345675 | Benjamin Bray |              12 |           2026 |          786 |
     # you have to manuallay clear all text then input the text in the feilds
     #the month drop down has only two months which fails the test case, it should have 12 months
     And user click on Update Your Card button
