@@ -3260,3 +3260,42 @@
 2022-12-19 19:46:23,380 - logger_File -INFO - user clicked on Edit option of card section
 2022-12-19 19:46:23,721 - logger_File -INFO - user edited and updated account information
 2022-12-19 19:46:24,610 - logger_File -INFO - successfull message is displayed
+2022-12-20 08:49:41,922 - logger_File -INFO - React Appis equal toReact App
+2022-12-20 08:49:42,001 - logger_File -INFO - user clicked on Sign in option
+2022-12-20 08:49:42,155 - logger_File -INFO - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-20 08:49:42,214 - logger_File -INFO - user clicked on login button
+2022-12-20 08:49:42,626 - logger_File -INFO - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-20 08:49:42,695 - logger_File -INFO - user clicked on Orders Section
+2022-12-20 08:49:43,072 - logger_File -INFO - user clicked on First order in the list show details
+2022-12-20 08:53:56,219 - logger_File -INFO - React Appis equal toReact App
+2022-12-20 08:53:56,303 - logger_File -INFO - user clicked on Sign in option
+2022-12-20 08:53:56,463 - logger_File -INFO - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-20 08:53:56,517 - logger_File -INFO - user clicked on login button
+2022-12-20 08:53:56,919 - logger_File -INFO - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-20 08:53:56,990 - logger_File -INFO - user clicked on Orders Section
+2022-12-20 08:53:57,370 - logger_File -INFO - user clicked on First order in the list show details
+2022-12-20 08:56:46,983 - logger_File -INFO - React Appis equal toReact App
+2022-12-20 08:56:47,070 - logger_File -INFO - user clicked on Sign in option
+2022-12-20 08:56:47,241 - logger_File -INFO - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-20 08:56:47,295 - logger_File -INFO - user clicked on login button
+2022-12-20 08:56:47,820 - logger_File -INFO - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-20 08:56:47,882 - logger_File -INFO - user clicked on Orders Section
+2022-12-20 08:56:48,286 - logger_File -INFO - user clicked on First order in the list show details
+2022-12-20 08:56:48,348 - logger_File -INFO - user clicked on Cancel The Order Button
+2022-12-20 08:56:48,403 - logger_File -INFO - user selected the cancelation Reason Bought wrong item
+2022-12-20 08:56:48,452 - logger_File -INFO - user clicked on Cancel Order Button at the end 
+2022-12-20 08:56:48,730 - logger_File -INFO - order has been successfully canceled
+2022-12-20 09:00:15,246 - logger_File -INFO - React Appis equal toReact App
+2022-12-20 09:00:15,330 - logger_File -INFO - user clicked on Sign in option
+2022-12-20 09:00:15,395 - logger_File -INFO - user clicked on Creat New Account buttton
+2022-12-20 09:00:15,685 - logger_File -INFO - user entered required information into sign up form
+2022-12-20 09:00:15,741 - logger_File -INFO - user clicked on SignUp buton 
+2022-12-20 09:19:04,633 - logger_File -INFO - React Appis equal toReact App
+2022-12-20 09:19:04,710 - logger_File -INFO - user clicked on Sign in option
+2022-12-20 09:19:04,870 - logger_File -INFO - user entered emailatiqi@gmail.comand user entered passwordAtiqi!@12
+2022-12-20 09:19:04,927 - logger_File -INFO - user clicked on login button
+2022-12-20 09:19:40,593 - logger_File -INFO - React Appis equal toReact App
+2022-12-20 09:19:40,688 - logger_File -INFO - user clicked on Sign in option
+2022-12-20 09:19:40,863 - logger_File -INFO - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-20 09:19:40,928 - logger_File -INFO - user clicked on login button
+2022-12-20 09:19:41,336 - logger_File -INFO - user logged in into account and the tekSchool logo is displayed and account option is displayd

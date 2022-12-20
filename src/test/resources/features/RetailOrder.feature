@@ -1,7 +1,7 @@
 #@compelteTest3
 Feature: Retail Order Page
 
-  #@CanelOrder
+  @CanelOrder
   Scenario: Verify User can cancel the order
     Given User is on retail website
     When User click on Sign in option
