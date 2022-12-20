@@ -3186,3 +3186,77 @@
 2022-12-16 01:04:45,804 [main] INFO logger_File - user clicked on add card button
 2022-12-16 01:04:46,388 [main] INFO logger_File - user clicked on place order button
 2022-12-16 01:04:46,858 [main] INFO logger_File - order successfully placed, Thanks
+2022-12-19 18:17:31,097 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 18:17:31,575 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 18:17:31,659 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 18:17:32,055 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 18:17:32,249 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 18:17:32,729 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 18:17:32,793 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 18:17:33,000 [main] INFO logger_File - user clicked on login button
+2022-12-19 18:17:33,112 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 18:17:33,555 [main] INFO logger_File - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-19 18:17:33,643 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 18:17:33,852 [main] INFO logger_File - user clicked on login button
+2022-12-19 18:17:33,927 [main] INFO logger_File - User clicked on Account option
+2022-12-19 18:17:34,140 [main] INFO logger_File - user clicked on add payment method
+2022-12-19 18:17:34,489 [main] INFO logger_File - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-19 18:17:34,871 [main] INFO logger_File - User clicked on Account option
+2022-12-19 18:17:35,051 [main] INFO logger_File - user clicked on add payment method
+2022-12-19 18:17:35,187 [main] INFO logger_File - user added card number and card name and selected month and year of expiration
+2022-12-19 18:17:35,359 [main] INFO logger_File - user clicked on add card button
+2022-12-19 18:17:35,942 [main] INFO logger_File - user added card number and card name and selected month and year of expiration
+2022-12-19 18:17:36,082 [main] INFO logger_File - user clicked on add card button
+2022-12-19 18:34:45,253 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 18:34:45,333 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 18:34:45,485 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 18:34:45,539 [main] INFO logger_File - user clicked on login button
+2022-12-19 18:34:45,945 [main] INFO logger_File - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-19 18:34:46,028 [main] INFO logger_File - User clicked on Account option
+2022-12-19 18:34:46,090 [main] INFO logger_File - user clicked on add payment method
+2022-12-19 18:39:29,196 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 18:39:29,271 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 18:39:29,419 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 18:39:29,470 [main] INFO logger_File - user clicked on login button
+2022-12-19 18:39:29,888 [main] INFO logger_File - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-19 18:39:29,965 [main] INFO logger_File - User clicked on Account option
+2022-12-19 18:39:30,024 [main] INFO logger_File - user clicked on add payment method
+2022-12-19 18:50:20,238 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 18:50:20,324 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 18:50:20,473 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 18:50:20,528 [main] INFO logger_File - user clicked on login button
+2022-12-19 18:50:20,939 [main] INFO logger_File - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-19 18:50:21,014 [main] INFO logger_File - User clicked on Account option
+2022-12-19 18:50:21,080 [main] INFO logger_File - user clicked on add payment method
+2022-12-19 18:50:21,486 [main] INFO logger_File - user added card number and card name and selected month and year of expiration
+2022-12-19 18:50:21,539 [main] INFO logger_File - user clicked on add card button
+2022-12-19 18:50:22,351 [main] INFO logger_File - successfull message is displayed
+2022-12-19 19:42:40,161 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 19:42:40,246 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 19:42:40,397 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 19:42:40,456 [main] INFO logger_File - user clicked on login button
+2022-12-19 19:42:40,815 [main] INFO logger_File - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-19 19:42:40,902 [main] INFO logger_File - User clicked on Account option
+2022-12-19 19:42:40,959 [main] INFO logger_File - user clicked on add payment method
+2022-12-19 19:42:41,351 [main] INFO logger_File - user added card number and card name and selected month and year of expiration
+2022-12-19 19:42:41,403 [main] INFO logger_File - user clicked on add card button
+2022-12-19 19:42:42,202 [main] INFO logger_File - successfull message is displayed
+2022-12-19 19:45:19,621 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 19:45:19,713 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 19:45:19,869 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 19:45:19,924 [main] INFO logger_File - user clicked on login button
+2022-12-19 19:45:20,783 [main] INFO logger_File - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-19 19:45:20,883 [main] INFO logger_File - User clicked on Account option
+2022-12-19 19:45:21,020 [main] INFO logger_File - user clicked on cards option
+2022-12-19 19:45:21,280 [main] INFO logger_File - user clicked on Edit option of card section
+2022-12-19 19:45:21,629 [main] INFO logger_File - user edited and updated account information
+2022-12-19 19:46:22,151 [main] INFO logger_File - React Appis equal toReact App
+2022-12-19 19:46:22,232 [main] INFO logger_File - user clicked on Sign in option
+2022-12-19 19:46:22,388 [main] INFO logger_File - user entered emailatiqi@gmail.comand user entered passwordAtiqi!11
+2022-12-19 19:46:22,446 [main] INFO logger_File - user clicked on login button
+2022-12-19 19:46:22,844 [main] INFO logger_File - user logged in into account and the tekSchool logo is displayed and account option is displayd
+2022-12-19 19:46:22,931 [main] INFO logger_File - User clicked on Account option
+2022-12-19 19:46:23,135 [main] INFO logger_File - user clicked on cards option
+2022-12-19 19:46:23,380 [main] INFO logger_File - user clicked on Edit option of card section
+2022-12-19 19:46:23,721 [main] INFO logger_File - user edited and updated account information
+2022-12-19 19:46:24,610 [main] INFO logger_File - successfull message is displayed

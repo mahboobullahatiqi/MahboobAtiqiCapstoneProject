@@ -81,8 +81,8 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("User fill Debit or credit card information")
 	public void user_fill_debit_or_credit_card_information(DataTable dataTable) {
 		List<Map<String, String>> addPayment = dataTable.asMaps(String.class, String.class);
-	    sendText(factory.accountPage().cardNumberInput, addPayment.get(0).get("cardNumber"));
-	    sendText(factory.accountPage().nameonCardInput, addPayment.get(0).get("nameOnCard"));
+	    sendText(factory.accountPage().cardNumberInput, DataGenerator.addressGenerator(addPayment.get(0).get("cardNumber")));
+	    sendText(factory.accountPage().nameonCardInput, DataGenerator.addressGenerator(addPayment.get(0).get("nameOnCard")));
 	    selectByVisibleText(factory.accountPage().monthExpiration, addPayment.get(0).get("expirationMonth"));
 	    selectByVisibleText(factory.accountPage().yearExpiration, addPayment.get(0).get("expirationYear"));	 
 	    sendText(factory.accountPage().securityCode, addPayment.get(0).get("securityCode"));
@@ -118,8 +118,8 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("user edit information with below data")
 	public void userEditInformationWithBelowData(DataTable data) {
 	  List<Map<String, String>> editPayment = data.asMaps(String.class, String.class);
-	  sendText(factory.accountPage().cardNumberInput, editPayment.get(0).get("cardNumber"));
-	  sendText(factory.accountPage().nameonCardInput, editPayment.get(0).get("nameOnCard"));
+	  sendText(factory.accountPage().cardNumberInput, DataGenerator.addressGenerator(editPayment.get(0).get("cardNumber")));
+	    sendText(factory.accountPage().nameonCardInput, DataGenerator.addressGenerator(editPayment.get(0).get("nameOnCard")));
 	  selectByVisibleText(factory.accountPage().monthExpiration, editPayment.get(0).get("expirationMonth"));
 	  selectByVisibleText(factory.accountPage().yearExpiration, editPayment.get(0).get("expirationYear"));	
 	  sendText(factory.accountPage().securityCode, editPayment.get(0).get("securityCode"));

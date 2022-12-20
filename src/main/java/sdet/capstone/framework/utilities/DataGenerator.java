@@ -14,6 +14,10 @@ public class DataGenerator {
 			output = faker.name().firstName();		
 		} else if (input.equalsIgnoreCase("phoneNumberValue")) {
 			output = faker.phoneNumber().cellPhone();
+		} else if (input.equalsIgnoreCase("cardNumberValue")) {
+			output = faker.number().digits(16);
+		} else if (input.equalsIgnoreCase("nameOnCardValue")) {
+			output = faker.name().fullName();
 		} else if (input.equalsIgnoreCase("streetAddressValue")) {
 			output = faker.address().streetAddress();
 		} else if (input.equalsIgnoreCase("aptValue")) {
@@ -29,4 +33,5 @@ public class DataGenerator {
 		return output;
 		
 	}
+	
 }
